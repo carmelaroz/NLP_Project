@@ -1,0 +1,26 @@
+Album: Got to Be There
+Topic 1: ['love', 'oh', 'got', 'gone', 'away', 'la', 'maria', 'know', 'll', 'ooh']
+Album: Ben
+Topic 1: ['la', 'yeah', 'love', 'girl', 'round', 'people', 'world', 've', 'make', 'don']
+Album: Music & Me
+Topic 1: ['johnny', 'love', 'ooh', 'oh', 'gonna', 'yeah', 'raven', 'let', 'euphoria', 'glow']
+Album: Forever, Michael
+Topic 1: ['got', 'll', 'just', 'dance', 'love', 'ooh', 'michael', 'baby', 'forever', 'don']
+Album: Off the Wall
+Topic 1: ['don', 'stop', 'love', 'won', 'til', 'gonna', 'ain', 'yeah', 'force', 'help']
+Album: Thriller
+Topic 1: ['ma', 'yeah', 'beat', 'sa', 'hee', 'baby', 'ooh', 'just', 'girl', 'oh']
+Album: Bad
+Topic 1: ['bad', 'know', 'just', 'da', 'really', 'hee', 'baby', 'okay', 'annie', 'hoo']
+Album: Dangerous
+Topic 1: ['ah', 'don', 'got', 'ain', 'jam', 'hee', 'let', 'time', 'wants', 'just']
+Album: HIStory- Past, Present and Future, Book I
+Topic 1: ['just', 'really', 'like', 'song', 'don', 'ah', 'bad', 'man', 'hoo', 'got']
+Album: Invincible
+Topic 1: ['yeah', 'don', 'girl', 'love', 'know', 'oh', 'll', 'just', 'world', 'baby']
+Album: Diana Ross Presents The Jackson 5
+Topic 1: ['love', 'yeah', 'ya', 'baby', 'la', 'jackson', 'like', 'girl', 'know', 'don']
+Album: ABC
+Topic 1: ['love', 'yeah', 'll', 'baby', 'doo', 'girl', 'oh', 'honey', 'know', 'don']
+Album: Third Album
+Topic 1: ['oh', 'yeah', 'love', 'll', 'reach', 'come', 'just', 'let', 'happy', 'don']

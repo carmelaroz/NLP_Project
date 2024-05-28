@@ -1,0 +1,156 @@
+Album: Got to Be There
+you: 120
+I: 107
+no: 97
+to: 85
+be: 69
+the: 66
+love: 56
+she: 52
+me: 49
+You: 47
+
+Album: Ben
+you: 101
+I: 56
+the: 54
+la: 53
+and: 47
+around: 47
+to: 41
+yeah: 38
+a: 34
+my: 30
+
+Album: Music & Me
+you: 62
+I: 61
+Johnny: 42
+the: 35
+to: 33
+a: 30
+love: 29
+gon: 26
+You: 24
+me: 24
+
+Album: Forever, Michael
+I: 145
+you: 104
+it: 104
+got: 81
+we: 76
+do: 70
+me: 53
+the: 47
+We: 43
+a: 40
+
+Album: Off the Wall
+the: 181
+you: 159
+I: 133
+do: 114
+get: 101
+on: 79
+stop: 73
+with: 66
+to: 60
+that: 58
+
+Album: Thriller
+you: 181
+the: 163
+ma: 145
+I: 120
+You: 112
+to: 111
+it: 91
+me: 90
+be: 78
+my: 74
+
+Album: Bad
+you: 245
+I: 205
+me: 171
+the: 115
+You: 98
+to: 76
+bad: 69
+know: 67
+on: 61
+a: 56
+
+Album: Dangerous
+the: 260
+you: 244
+me: 237
+it: 231
+I: 217
+to: 211
+a: 103
+for: 96
+and: 88
+in: 87
+
+Album: HIStory- Past, Present and Future, Book I
+I: 500
+the: 492
+a: 388
+it: 360
+and: 358
+to: 300
+of: 276
+you: 264
+that: 254
+me: 210
+
+Album: Invincible
+I: 432
+you: 360
+me: 188
+the: 183
+You: 164
+my: 146
+to: 125
+do: 124
+ca: 96
+it: 90
+
+Album: Diana Ross Presents The Jackson 5
+you: 201
+I: 196
+love: 79
+the: 68
+yeah: 60
+to: 55
+ya: 53
+my: 50
+la: 48
+me: 45
+
+Album: ABC
+you: 225
+I: 204
+to: 67
+love: 67
+the: 64
+a: 59
+it: 59
+yeah: 55
+be: 52
+me: 51
+
+Album: Third Album
+you: 177
+I: 165
+me: 72
+in: 68
+the: 64
+yeah: 54
+love: 54
+a: 47
+be: 44
+to: 41
+
